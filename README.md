@@ -1,0 +1,3 @@
+Interpreting user needs is simply working to effectively implement user suggestions to accurately fit into the aspects of a projects. User stories can give team members closer insight into the perspective and thought processes of the end users by elaborating on specific details.
+I hope to be able to implement the flexibility of the agile process into my future work to be able to go back and retroactively adjust issues that could arise.
+Being a good team member will simply come down to doing your best to meet projects goals while lending aid to other team members to the best of your abilities.# CS-250
